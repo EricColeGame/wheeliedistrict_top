@@ -18,14 +18,14 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Wheelie District Wiki",
+  shortName: "Wheelie District",
+  logoText: "WD",
+  tagline: "Urban Wheelie Racing Simulator & Complete Guides",
+  description: "Explore Wheelie District Wiki for bike guides, gameplay tips, controls, updates, codes, and everything players need to master motorcycle wheelie challenges.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://wheeliedistrict.top",
+  gameUrl: "https://www.roblox.com/games/89490838554710/Wheelie-District",
+  heroVideoId: "dMHzipeh1ww",
   social: {
     discord: "https://discord.gg/roblox",
     youtube: "https://www.youtube.com/@roblox",
