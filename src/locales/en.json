@@ -9,7 +9,15 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "items": "Items",
+    "progression": "Progression",
+    "codes": "Codes",
+    "maps": "Maps",
+    "updates": "Updates",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -487,5 +495,37 @@
     "buildGuide": "Earning Tips",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Wheelie District Guides",
+    "overviewDescription": "Comprehensive guides, beginner tips, money making tricks, and secret discoveries for Wheelie District."
+  },
+  "mechanics": {
+    "overviewTitle": "Wheelie District Mechanics",
+    "overviewDescription": "Deep dive into stunt physics, wheelie angle management, race mechanics, and high-speed controls."
+  },
+  "items": {
+    "overviewTitle": "Wheelie District Vehicles & Bikes",
+    "overviewDescription": "Complete catalog of motorcycles, superbikes, dirt bikes, H2R specifications, and performance comparisons."
+  },
+  "progression": {
+    "overviewTitle": "Wheelie District Progression",
+    "overviewDescription": "Leveling systems, cash farming strategies, XP multipliers, vehicle unlocks, and progression milestones."
+  },
+  "codes": {
+    "overviewTitle": "Wheelie District Codes",
+    "overviewDescription": "Latest working promo codes, free cash bonuses, exclusive cosmetics, and redemption instructions."
+  },
+  "maps": {
+    "overviewTitle": "Wheelie District Maps & Districts",
+    "overviewDescription": "Explore urban districts, highway sprint tracks, stunt parks, and hidden route maps across the city."
+  },
+  "updates": {
+    "overviewTitle": "Wheelie District Updates & Patch Notes",
+    "overviewDescription": "Latest release updates, patch notes, new bike additions, and development roadmaps for Wheelie District."
+  },
+  "community": {
+    "overviewTitle": "Wheelie District Community",
+    "overviewDescription": "Join official Wheelie District Discord, Reddit forums, social groups, and community meetups."
   }
 }
