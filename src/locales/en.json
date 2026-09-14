@@ -13,8 +13,8 @@
   },
   "home": {
     "meta": {
-      "title": "Wheelie District Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Wheelie District Wiki — Bikes, Codes, Controls & Guides",
+      "description": "Complete Wheelie District guide on Roblox with active working codes, bike lists & vehicle guides, controls tier list, and fast cash tips."
     },
     "hero": {
       "eyebrow": "Urban Wheelie Racing Simulator",
@@ -38,27 +38,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Wheelie District Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master bike balance, throttle control, and starter riding physics from day one with our comprehensive beginner walkthrough."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "How to Wheelie",
+          "description": "Learn the delicate balance point, feathering the throttle and tapping the rear brake for continuous distance."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Fast Cash Guide",
+          "description": "Maximize your in-game earnings with high-speed stunt combos, long-distance wheelie runs, and efficient cash routes."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Best Bike Progression",
+          "description": "Upgrade your garage from starter cruisers to high-performance sportbikes and custom stunt motorcycles."
         }
       ]
     },
@@ -66,237 +66,353 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "How to Wheelie",
+        "Fast Cash",
+        "Bike Tier List"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need to know from your first garage spawn to throttle control and balance basics.",
+          "href": "/guide/wheelie-district-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "description": "All working Wheelie District promo codes for free in-game cash and bike decals.",
+          "href": "/codes/wheelie-district-codes"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Stunt",
+          "title": "How to Wheelie",
+          "description": "Master the balance point, throttle feathering, and rear brake control to hold long wheelies.",
+          "href": "/guide/wheelie-district-how-to-wheelie"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Vehicles",
+          "title": "Vehicles Catalog",
+          "description": "Complete breakdown of all motorcycles, superbikes, dirt bikes, and stunt frames.",
+          "href": "/items/wheelie-district-vehicles"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Fast Cash Guide",
+          "description": "High-efficiency stunt routes and combo multipliers to maximize your cash earnings.",
+          "href": "/progression/wheelie-district-money"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Controls",
+          "title": "Controls Guide",
+          "description": "Full keyboard and mobile touch control schemes for precision street riding.",
+          "href": "/progression/wheelie-district-controls"
+        },
+        {
+          "badge": "Rankings",
+          "title": "Vehicle Tier List",
+          "description": "Every bike ranked by top speed, handling balance, and stunt score multipliers.",
+          "href": "/progression/wheelie-district-vehicle-categories"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Update History",
+          "description": "Official patch notes, physics tweaks, new vehicles, and map updates.",
+          "href": "/updates/wheelie-district-update"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Community",
+          "title": "Community Links",
+          "description": "Join the official Roblox group and player forums to share stunt clips and records.",
+          "href": "/community/wheelie-district-discord"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Wheelie District?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Wheelie District is an adrenaline-fueled motorcycle stunt and urban street riding simulation game on Roblox. Players take to expansive city avenues and open highways, mastering realistic motorcycle physics, throttle control, and balance mechanics while pulling off high-angle wheelies, drifts, and precision maneuvers.",
+        "Whether you are learning to sustain your first 100-meter wheelie on a starter dirt bike, building up stunt combos to unlock elite superbikes, or fine-tuning engine specs and handling in your personal garage, our wiki provides complete guides, vehicle stats, control breakdowns, and money-making strategies."
       ],
       "stats": [
-        {
-          "label": "Developer",
-          "value": "Midnight Continent"
-        },
         {
           "label": "Platform",
           "value": "Roblox"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Motorcycle Stunt Simulator"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Core Mechanic",
+          "value": "Wheelie Balance & Physics"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Vehicle Types",
+          "value": "Dirt, Sport & Cruisers"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Controls",
+          "value": "PC & Mobile Supported"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Community",
+          "value": "Roblox Group & Fans"
+        },
+        {
+          "label": "Price",
+          "value": "Free to Play"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Wheelie District Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Master motorcycle stunt riding in Wheelie District on Roblox with essential progression guides, active codes, vehicle catalogs, and top earning strategies.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Wheelie District Codes",
+          "description": "Redeem the latest active promo codes to unlock free in-game Cash, cosmetic decals, and vehicle upgrade bonuses before they expire.",
+          "href": "/codes/wheelie-district-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "COMING-SOON",
+              "detail": "Latest Working Promo Code — Free In-Game Cash",
+              "badge": "Active"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "STAY-TUNED",
+              "detail": "Community Milestone Reward — Free Bike Decal",
+              "badge": "Active"
             },
             {
               "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "detail": "Codes are case-sensitive; redeem them via the in-game settings menu"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Wheelie District Beginner Guide",
+          "description": "Essential starting walkthrough covering basic bike controls, throttle management, finding the balance point, and early cash progression.",
+          "href": "/guide/wheelie-district-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Spawn your starter bike from the garage and get familiar with throttle controls"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Lean back while accelerating to lift the front tire into the wheelie zone"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Tap the rear brake lightly to prevent looping out backwards"
+            },
+            {
+              "label": "4",
+              "detail": "Maintain steady momentum on straight city avenues to build your stunt combo"
+            },
+            {
+              "label": "5",
+              "detail": "Bank cash rewards to unlock faster street bikes and performance parts"
+            },
+            {
+              "label": "6",
+              "detail": "Practice balance recovery when steering through corners and traffic"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Wheelie District Vehicles Guide",
+          "description": "Explore the full roster of motorcycles, superbikes, dirt bikes, and custom stunt vehicles with stats, prices, and unlock criteria.",
+          "href": "/items/wheelie-district-vehicles",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Sport",
+              "detail": "High-RPM street racers designed for highway top speed and long wheelies"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Dirt",
+              "detail": "Agile off-road bikes with forgiving balance points for beginners"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Superbike",
+              "detail": "Premium hyperbikes delivering maximum acceleration and stunt points"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Cruiser",
+              "detail": "Heavyweight roadsters with stable center of gravity and smooth handling"
+            },
+            {
+              "label": "Custom",
+              "detail": "Tuned stunt frames with modified swingarms and high-angle wheelie bars"
+            },
+            {
+              "label": "Speedster",
+              "detail": "Lightweight drift machines built for precision street maneuvers"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Wheelie District Update History",
+          "description": "Track official patch notes, newly added motorcycles, map expansions, balance physics adjustments, and community events.",
+          "href": "/updates/wheelie-district-update",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Bikes",
+              "detail": "New sportbikes and custom stunt frames added to the vehicle garage"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Physics",
+              "detail": "Refined wheelie balance sensitivity and throttle response adjustments"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Map",
+              "detail": "Expanded highway sections and new stunt parks across the city"
+            },
+            {
+              "label": "Rewards",
+              "detail": "Increased cash multipliers for continuous long-distance wheelies"
+            },
+            {
+              "label": "Quality",
+              "detail": "Improved camera angles, mobile control layouts, and audio effects"
+            },
+            {
+              "label": "Events",
+              "detail": "Seasonal community competitions and stunt leaderboards"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Wheelie District Money Guide",
+          "description": "Master the fastest methods to earn Cash through long wheelie streaks, combo multipliers, and high-efficiency stunt routes.",
+          "href": "/progression/wheelie-district-money",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Find a long unobstructed avenue or highway stretch without heavy obstacles"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Pop a wheelie and maintain your speed above 30 MPH for the initial multiplier"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Keep the bike angle locked in the sweet spot to stack consecutive combo points"
+            },
+            {
+              "label": "4",
+              "detail": "Tap brakes gently to avoid crashing; dropping the front wheel banks the cash"
+            },
+            {
+              "label": "5",
+              "detail": "Reinvest early earnings into bikes with higher base speed and better stability"
+            },
+            {
+              "label": "6",
+              "detail": "Compete in street races and time trials for lump-sum cash payouts"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Wheelie District Controls Guide",
+          "description": "Comprehensive control breakdowns for PC keyboard and mobile touchscreen, covering throttle feathering and balance physics.",
+          "href": "/progression/wheelie-district-controls",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Throttle",
+              "detail": "Accelerate steadily and feather the gas to maintain the front wheel lift"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Brake",
+              "detail": "Tap the rear brake quickly to pull the nose down before looping out"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Steer",
+              "detail": "Use gentle counter-steering inputs to correct drifting while riding on one wheel"
+            },
+            {
+              "label": "Lean",
+              "detail": "Shift rider body weight forward or backward to fine-tune the balance center"
+            },
+            {
+              "label": "Camera",
+              "detail": "Switch to third-person trailing view for optimal perspective during stunts"
+            },
+            {
+              "label": "Mobile",
+              "detail": "Utilize responsive on-screen sliders and buttons tuned for touch control"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Wheelie District Vehicle Tier List",
+          "description": "Rankings of all available motorcycles and vehicles based on top speed, balance forgiveness, stunt stability, and earning potential.",
+          "href": "/progression/wheelie-district-vehicle-categories",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "H2R & Hyper Superbikes — Highest top speed and massive stunt score multipliers"
+            },
+            {
+              "label": "A",
+              "detail": "Tuned Sportbikes — Excellent throttle responsiveness and balanced center of mass"
+            },
+            {
+              "label": "B",
+              "detail": "Custom Stunt Dirt Bikes — High torque and wide balance window ideal for beginners"
+            },
+            {
+              "label": "C",
+              "detail": "Starter Street Bikes & Cruisers — Reliable early-game vehicles with modest speed"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Wheelie District Community",
+          "description": "Connect with fellow stunt riders, access the official Roblox group, discover player records, and stay informed on news.",
+          "href": "/community/wheelie-district-discord",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Group",
+              "detail": "Join the official Roblox community group for updates and member perks"
+            },
+            {
+              "label": "Records",
+              "detail": "Submit your longest continuous wheelie distance and stunt scores"
+            },
+            {
+              "label": "Meets",
+              "detail": "Participate in organized community group rides and highway cruises"
+            },
+            {
+              "label": "Feedback",
+              "detail": "Share gameplay suggestions, bug reports, and bike requests with creators"
+            },
+            {
+              "label": "Discord",
+              "detail": "Join player chat rooms, share stunt clips, and get help from veterans"
+            },
+            {
+              "label": "Events",
+              "detail": "Compete in scheduled weekend stunt contests for exclusive bragging rights"
             }
           ]
         }
@@ -304,27 +420,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about Wheelie District.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Wheelie District?",
+          "answer": "Wheelie District is a popular motorcycle stunt and urban street riding simulation game on Roblox, focusing on realistic wheelie physics, vehicle progression, and stunt score leaderboards."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I perform and hold a wheelie in Wheelie District?",
+          "answer": "In Wheelie District, accelerate and lean backward to raise the front wheel. Once the front tire lifts, feather the throttle to maintain the balance point and tap the rear brake if you lean too far back to prevent looping out."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How can I earn Cash fast in Wheelie District?",
+          "answer": "The most efficient way to earn Cash in Wheelie District is by maintaining continuous wheelies on long straight roadways. Longer wheelie streaks increase your combo multiplier, earning you significantly more money upon landing."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Where do I find active Wheelie District codes?",
+          "answer": "Active Wheelie District promo codes are listed on our dedicated Codes page. You can redeem working codes through the in-game menu to claim free Cash, bonus cosmetics, and special rewards."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What is the best bike for beginners in Wheelie District?",
+          "answer": "For new players in Wheelie District, dirt bikes and lightweight starter street bikes offer the most forgiving balance physics, making it much easier to practice throttle control before upgrading to high-speed superbikes."
         }
       ]
     },
