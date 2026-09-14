@@ -1,1 +1,465 @@
-{}
+{
+  "site": {
+    "name": "Wheelie District Wiki",
+    "shortName": "Wheelie District",
+    "tagline": "Tu Guía Definitiva de Motos, Trucos y Códigos en Wheelie District",
+    "description": "Explora la wiki más completa de Wheelie District en Roblox. Encuentra las mejores motos, trucos de caballito (wheelie), códigos actualizados, consejos para ganar dinero y guías paso a paso.",
+    "legalNotice": "Wheelie District Wiki es una comunidad de fans no oficial y no está afiliada, respaldada ni patrocinada por los creadores de Wheelie District ni por Roblox Corporation."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar Tema",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "items": "Items",
+    "progression": "Progression",
+    "codes": "Codes",
+    "maps": "Maps",
+    "updates": "Updates",
+    "community": "Community"
+  },
+  "home": {
+    "meta": {
+      "title": "Wheelie District Wiki - Guías de Motos, Trucos y Códigos",
+      "description": "La guía comunitaria definitiva de Wheelie District en Roblox. Domina el arte del caballito, desbloquea las motos más rápidas, canjea códigos y gana dinero rápido."
+    },
+    "hero": {
+      "badge": "Roblox Stunt & Wheelie Simulator",
+      "title": "Domina las Calles en Wheelie District",
+      "subtitle": "Tu centro definitivo para aprender trucos de caballito, comparar motos deportivas y de cross, canjear códigos activos y ganar dinero rápido en Wheelie District.",
+      "primaryCta": "Guía de Inicio",
+      "secondaryCta": "Códigos Activos",
+      "quickLinks": {
+        "codes": "Códigos",
+        "tierList": "Mejores Motos",
+        "beginner": "Cómo Hacer Caballito",
+        "mechanics": "Controles"
+      }
+    },
+    "updates": {
+      "badge": "Últimas Novedades",
+      "title": "Actualizaciones de Wheelie District",
+      "description": "Descubre las últimas motos añadidas, cambios en la física y notas de parches del juego.",
+      "viewAll": "Ver Actualizaciones"
+    },
+    "start": {
+      "badge": "Guía de Inicio",
+      "title": "Empieza en Wheelie District",
+      "subtitle": "Aprende lo fundamental para conducir, dominar el equilibrio y progresar sin perder tiempo.",
+      "cards": [
+        {
+          "title": "Guía para Principiantes",
+          "description": "Conoce los controles básicos de aceleración, frenado y equilibrio para dar tus primeros paseos.",
+          "level": "Básico",
+          "readTime": "3 min"
+        },
+        {
+          "title": "Cómo Hacer Caballito",
+          "description": "Aprende a levantar la rueda delantera y mantener el ángulo perfecto sin caerte.",
+          "level": "Esencial",
+          "readTime": "5 min"
+        },
+        {
+          "title": "Cómo Ganar Dinero Rápido",
+          "description": "Las mejores rutas y métodos de acrobacias para acumular efectivo rápidamente.",
+          "level": "Finanzas",
+          "readTime": "4 min"
+        },
+        {
+          "title": "Progresión de Motos",
+          "description": "Descubre qué motos comprar primero para no malgastar tu dinero inicial.",
+          "level": "Motos",
+          "readTime": "5 min"
+        }
+      ]
+    },
+    "popular": {
+      "badge": "Contenido Destacado",
+      "title": "Guías Populares de Wheelie District",
+      "description": "Los artículos más consultados por la comunidad de pilotos y acróbatas.",
+      "viewAll": "Explorar Guías"
+    },
+    "aboutGame": {
+      "badge": "Sobre el Juego",
+      "title": "Conoce Wheelie District en Roblox",
+      "description": "Wheelie District es uno de los simuladores de acrobacias en moto más inmersivos y populares de Roblox. Diseñado para amantes de las dos ruedas, el juego ofrece un sistema de físicas realista donde cada ajuste de aceleración y balance cuenta para mantener el caballito más largo posible.",
+      "paragraph2": "Personaliza tus motos deportivas, cruisers y de motocross, recorre un mapa urbano detallado, compite contra otros jugadores en carreras callejeras y perfecciona tus trucos para convertirte en el rey del asfalto.",
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Simulador de Motos"
+        },
+        {
+          "label": "Física Clave",
+          "value": "Equilibrio & Caballito"
+        },
+        {
+          "label": "Categorías",
+          "value": "Dirt / Sport / Cruiser"
+        },
+        {
+          "label": "Soporte",
+          "value": "PC & Móvil"
+        },
+        {
+          "label": "Precio",
+          "value": "Gratis"
+        }
+      ]
+    },
+    "explore": {
+      "badge": "Explorar Guías",
+      "title": "Módulos de Guía de Wheelie District",
+      "subtitle": "Todo lo que necesitas saber organizado en 8 secciones especializadas.",
+      "modules": [
+        {
+          "id": "codes",
+          "title": "Códigos de Wheelie District",
+          "description": "Códigos de canje vigentes para obtener dinero gratis y recompensas exclusivas.",
+          "displayType": "code-cards",
+          "viewAllHref": "/codes",
+          "viewAllText": "Ver Todos los Códigos",
+          "emptyText": "No hay códigos expirados en este momento.",
+          "items": [
+            {
+              "title": "Códigos Activos",
+              "code": "WHEELIE",
+              "reward": "Dinero Gratis",
+              "status": "Activo",
+              "description": "Canjéalo en el menú del juego para recibir efectivo inicial."
+            }
+          ]
+        },
+        {
+          "id": "wheelie-basics",
+          "title": "Técnicas de Caballito en Wheelie District",
+          "description": "Paso a paso para dominar el equilibrio y no volcar en tus acrobacias.",
+          "displayType": "step-by-step",
+          "viewAllHref": "/guide",
+          "viewAllText": "Leer Guía Completa",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Aceleración Inicial",
+              "description": "Alcanza una velocidad moderada en línea recta antes de levantar la rueda."
+            },
+            {
+              "step": 2,
+              "title": "Levantar la Rueda",
+              "description": "Presiona el control de inclinación hacia atrás junto con un golpe de acelerador."
+            },
+            {
+              "step": 3,
+              "title": "Encontrar el Punto de Equilibrio",
+              "description": "Regula con toques suaves de acelerador y freno trasero para no irte de espaldas."
+            },
+            {
+              "step": 4,
+              "title": "Aterrizaje Suave",
+              "description": "Suelta el acelerador suavemente y endereza la moto para un aterrizaje limpio."
+            }
+          ]
+        },
+        {
+          "id": "money-grind",
+          "title": "Cómo Ganar Dinero en Wheelie District",
+          "description": "Estrategias óptimas para maximizar tus ganancias por segundo.",
+          "displayType": "step-by-step",
+          "viewAllHref": "/progression",
+          "viewAllText": "Ver Guía de Dinero",
+          "steps": [
+            {
+              "step": 1,
+              "title": "Caballitos Continuos",
+              "description": "Mantén la rueda delantera en el aire durante rectas largas para multiplicar puntos."
+            },
+            {
+              "step": 2,
+              "title": "Completar Desafíos",
+              "description": "Participa en eventos callejeros y misiones secundarias del mapa."
+            },
+            {
+              "step": 3,
+              "title": "Mejorar tu Moto",
+              "description": "Invierte en mejoras de motor y agarre para conseguir bonificaciones más altas."
+            }
+          ]
+        },
+        {
+          "id": "bike-tiers",
+          "title": "Motos de Wheelie District",
+          "description": "Clasificación de motos por velocidad, aceleración y facilidad de control.",
+          "displayType": "tier-grid",
+          "viewAllHref": "/items",
+          "viewAllText": "Ver Lista Completa",
+          "tiers": [
+            {
+              "tier": "Tier S",
+              "label": "Motos de Élite",
+              "description": "Motos deportivas de alta cilindrada con máxima velocidad y equilibrio superior.",
+              "items": [
+                "H2R Sport",
+                "Superbike 1000"
+              ]
+            },
+            {
+              "tier": "Tier A",
+              "label": "Motos Avanzadas",
+              "description": "Excelente aceleración y manejo ágil para acrobacias técnicas.",
+              "items": [
+                "Dirt Pro 450",
+                "Street Cruiser 650"
+              ]
+            },
+            {
+              "tier": "Tier B",
+              "label": "Motos de Inicio",
+              "description": "Motos equilibradas y asequibles para dar tus primeros pasos.",
+              "items": [
+                "Starter Dirt 250",
+                "City Scooter 125"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "bike-garage",
+          "title": "Garaje de Motos de Wheelie District",
+          "description": "Explora todas las motos disponibles y sus especificaciones técnicas.",
+          "displayType": "card-list",
+          "viewAllHref": "/items",
+          "viewAllText": "Explorar Garaje",
+          "cards": [
+            {
+              "title": "Motos Deportivas (Sport)",
+              "description": "Velocidad punta inigualable y aerodinámica para rectas largas.",
+              "highlights": [
+                {
+                  "label": "Sport",
+                  "value": "Máxima Velocidad"
+                }
+              ]
+            },
+            {
+              "title": "Motos de Cross (Dirt)",
+              "description": "Gran par motor y suspensión perfecta para saltos y caballitos fáciles.",
+              "highlights": [
+                {
+                  "label": "Dirt",
+                  "value": "Control de Caballito"
+                }
+              ]
+            },
+            {
+              "title": "Motos de Carretera (Cruiser)",
+              "description": "Diseño clásico, conducción estable y paseos cómodos.",
+              "highlights": [
+                {
+                  "label": "Cruiser",
+                  "value": "Estabilidad"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "patch-notes",
+          "title": "Historial de Actualizaciones de Wheelie District",
+          "description": "Registro completo de versiones, nuevas motos y mejoras de físicas.",
+          "displayType": "card-list",
+          "viewAllHref": "/updates",
+          "viewAllText": "Ver Registro de Parches",
+          "cards": [
+            {
+              "title": "Actualización de Nuevas Motos",
+              "description": "Nuevas motos deportivas añadidas al concesionario y mejoras de estabilidad.",
+              "highlights": [
+                {
+                  "label": "Updates",
+                  "value": "Nuevas Motos"
+                }
+              ]
+            },
+            {
+              "title": "Mejoras de Física de Caballito",
+              "description": "Ajustes en la respuesta del freno y sensibilidad del equilibrio.",
+              "highlights": [
+                {
+                  "label": "Mechanics",
+                  "value": "Física"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "control-guide",
+          "title": "Guía de Controles de Wheelie District",
+          "description": "Configuración de teclado, ratón y mando para una conducción precisa.",
+          "displayType": "card-list",
+          "viewAllHref": "/mechanics",
+          "viewAllText": "Ver Controles",
+          "cards": [
+            {
+              "title": "Acelerador y Freno",
+              "description": "Aprende a modular el gatillo o la tecla W/S para mantener la inclinación.",
+              "highlights": [
+                {
+                  "label": "Throttle",
+                  "value": "Modulación"
+                }
+              ]
+            },
+            {
+              "title": "Controles de Equilibrio",
+              "description": "Uso de Shift y teclas de dirección para giros durante el caballito.",
+              "highlights": [
+                {
+                  "label": "Steer",
+                  "value": "Balance"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "community-hub",
+          "title": "Comunidad de Wheelie District",
+          "description": "Únete a otros pilotos en Discord y comparte tus mejores marcas.",
+          "displayType": "card-list",
+          "viewAllHref": "/community",
+          "viewAllText": "Unirse a la Comunidad",
+          "cards": [
+            {
+              "title": "Discord Oficial",
+              "description": "Conoce a otros jugadores, comparte clips y entérate de nuevos códigos.",
+              "highlights": [
+                {
+                  "label": "Discord",
+                  "value": "Comunidad"
+                }
+              ]
+            },
+            {
+              "title": "Grupo de Roblox",
+              "description": "Únete al grupo de los desarrolladores para recibir recompensas en el juego.",
+              "highlights": [
+                {
+                  "label": "Group",
+                  "value": "Recompensas"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "badge": "Preguntas Frecuentes",
+      "title": "Preguntas Frecuentes de Wheelie District",
+      "description": "Respuestas directas a las dudas más comunes sobre el juego.",
+      "items": [
+        {
+          "question": "¿Qué es Wheelie District en Roblox?",
+          "answer": "Wheelie District es un simulador de motos en Roblox centrado en acrobacias, carreras callejeras y el dominio del caballito con físicas realistas."
+        },
+        {
+          "question": "¿Cómo se hace el caballito en Wheelie District?",
+          "answer": "Acelera suavemente en línea recta, inclina tu vehículo hacia atrás y modula toques de acelerador y freno trasero para no volcar."
+        },
+        {
+          "question": "¿Cómo ganar dinero rápido en Wheelie District?",
+          "answer": "La forma más rápida es encadenar caballitos largos en carreteras despejadas y canjear los códigos de dinero activo."
+        },
+        {
+          "question": "¿Dónde se canjean los códigos de Wheelie District?",
+          "answer": "Abre el menú de ajustes o la pestaña de códigos dentro del juego, escribe el código exacto y pulsa Canjear."
+        },
+        {
+          "question": "¿Cuál es la mejor moto para empezar en Wheelie District?",
+          "answer": "Las motos de cross (Dirt Bikes) son ideales para principiantes debido a su ligereza y facilidad para levantar la rueda delantera."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para Dominar las Calles en Wheelie District?",
+      "description": "Consulta nuestras guías completas, equípate con la mejor moto y conviértete en el mejor piloto de acrobacias.",
+      "primaryCta": "Comenzar Ahora",
+      "secondaryCta": "Ver Códigos Activos"
+    }
+  },
+  "bosses": {},
+  "shared": {
+    "wikiNavigation": "Navegación Wiki",
+    "activeCodes": "Códigos Activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver Todos los Códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de Contenidos",
+    "nextSteps": "Siguientes Pasos",
+    "needHelp": "¿Necesitas Ayuda?",
+    "relatedReading": "Lecturas Relacionadas",
+    "relatedGuides": "Guías Relacionadas",
+    "readMore": "Leer Más",
+    "officialMedia": "Medios Oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "No hay guías disponibles en esta categoría por ahora."
+  },
+  "footer": {
+    "aboutTitle": "Sobre Wheelie District Wiki",
+    "about": "Tu recurso comunitario de confianza para guías de motos, trucos de caballito, códigos y estrategias de conducción en Wheelie District de Roblox.",
+    "quickLinks": "Enlaces Rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "© 2026 Wheelie District Wiki. Todos los derechos reservados.",
+    "description": "Una wiki comunitaria dedicada a Wheelie District en Roblox.",
+    "playGame": "Jugar en Roblox",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "YouTube",
+    "vvBuilder": "Guías de Motos",
+    "beginnerGuide": "Guía de Inicio",
+    "raceGuides": "Controles y Mecánicas",
+    "bossGuides": "Cómo Hacer Caballito",
+    "buildGuide": "Guía de Dinero",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfService": "Términos de Servicio"
+  },
+  "guide": {
+    "overviewTitle": "Guías de Wheelie District",
+    "overviewDescription": "Guías completas para dominar el caballito, aprender trucos y progresar rápido en Wheelie District."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Wheelie District",
+    "overviewDescription": "Todo sobre las físicas de las motos, controles de equilibrio y mecánicas avanzadas de conducción."
+  },
+  "items": {
+    "overviewTitle": "Motos y Vehículos de Wheelie District",
+    "overviewDescription": "Lista completa de motos de cross, deportivas y cruisers con comparativas de rendimiento."
+  },
+  "progression": {
+    "overviewTitle": "Progresión y Dinero en Wheelie District",
+    "overviewDescription": "Estrategias eficaces para ganar dinero rápido, subir de nivel y desbloquear las mejores motos."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Wheelie District",
+    "overviewDescription": "Códigos actualizados y verificados para canjear dinero gratis y recompensas exclusivas."
+  },
+  "maps": {
+    "overviewTitle": "Mapas y Rutas de Wheelie District",
+    "overviewDescription": "Descubre las mejores carreteras, autopistas y zonas de acrobacias del mapa de Wheelie District."
+  },
+  "updates": {
+    "overviewTitle": "Actualizaciones de Wheelie District",
+    "overviewDescription": "Notas de parches, registro de versiones y novedades sobre las motos añadidas recientemente."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Wheelie District",
+    "overviewDescription": "Conéctate con la comunidad de pilotos, únete al Discord oficial y participa en eventos."
+  }
+}
