@@ -21,70 +21,127 @@
   },
   "home": {
     "meta": {
-      "title": "Wheelie District Wiki - Motorrad-Guides, Stunts & Codes",
-      "description": "Der umfassende Community-Guide für Wheelie District auf Roblox. Meistere Wheelies, schalte die schnellsten Motorräder frei, löse Codes ein und verdiene schnell Geld."
+      "title": "Wheelie District Wiki — Bikes, Codes, Steuerung & Guides",
+      "description": "Vollständiger Wheelie District Guide auf Roblox mit aktiven Codes, Bike-Listen, Fahrzeug-Guides, Steuerungs-Tier-List und Tipps für schnelles Cash."
     },
     "hero": {
-      "badge": "Roblox Stunt & Wheelie Simulator",
-      "title": "Erobere die Straßen in Wheelie District",
-      "subtitle": "Deine zentrale Anlaufstelle, um Wheelie-Techniken zu meistern, Sport- und Dirt-Bikes zu vergleichen, aktive Codes einzulösen und in Wheelie District schnell Cash zu verdienen.",
+      "eyebrow": "Urbane Wheelie- und Rennsimulation",
+      "title": "Wheelie District Wiki",
+      "description": "Wheelie District ist ein Motorrad-Stunt- und Straßenfahrer-Erlebnis, das sich auf Wheelies, präzise Balancesteuerung, Stadterkundung und Fahrerprogression konzentriert.",
+      "stats": [
+        "Gesamtbesuche",
+        "Verfügbare Bikes",
+        "Aktive Codes",
+        "Tägliche Updates"
+      ],
       "primaryCta": "Einsteiger-Guide",
-      "secondaryCta": "Aktive Codes",
-      "quickLinks": {
-        "codes": "Codes",
-        "tierList": "Beste Bikes",
-        "beginner": "Wheelie Lernen",
-        "mechanics": "Steuerung"
-      }
+      "secondaryCta": "Bike-Liste",
+      "tertiaryCta": "Aktive Codes",
+      "videoLabel": "Offizieller Gameplay-Guide"
     },
     "updates": {
-      "badge": "Neueste Updates",
-      "title": "Wheelie District Updates",
-      "description": "Erfahre alles über neu hinzugefügte Motorräder, Physik-Verbesserungen und Patch-Notizen.",
-      "viewAll": "Alle Updates Anzeigen"
+      "title": "Neueste Updates",
+      "browse": "Alle Guides Durchsuchen",
+      "viewAll": "Alle Anzeigen"
     },
     "start": {
-      "badge": "Start-Guide",
-      "title": "Starte in Wheelie District",
-      "subtitle": "Lerne die Grundlagen zu Fahrphysik, Balance-Kontrolle und schnellem Vorankommen.",
+      "eyebrow": "Hier Starten",
+      "title": "Deine Wheelie District Reise",
       "cards": [
         {
-          "title": "Anfänger-Leitfaden",
-          "description": "Grundlagen zu Gas, Bremse und Balance für deine ersten Ausfahrten.",
-          "level": "Grundlagen",
-          "readTime": "3 Min."
+          "number": "1",
+          "title": "Einsteiger-Guide",
+          "description": "Meistere Bike-Balance, Gasdosierung und anfängliche Fahrphysik von Tag eins an mit unserem umfassenden Leitfaden."
         },
         {
-          "title": "Wheelie Meistern",
-          "description": "So hebst du das Vorderrad an und hältst den Balance-Punkt stabil.",
-          "level": "Wichtig",
-          "readTime": "5 Min."
+          "number": "2",
+          "title": "Wheelie Lernen",
+          "description": "Finde den feinen Balancepunkt, lerne das Gas dosiert zu tippen und die Hinterradbremse für lange Distanzen zu nutzen."
         },
         {
-          "title": "Schnell Geld Verdienen",
-          "description": "Die besten Strecken und Stunt-Methoden für maximalen Cashflow.",
-          "level": "Wirtschaft",
-          "readTime": "4 Min."
+          "number": "3",
+          "title": "Schnell Cash Verdienen",
+          "description": "Maximiere deine Einnahmen mit Highspeed-Stunt-Kombos, langen Wheelie-Fahrten und effizienten Geld-Routen."
         },
         {
-          "title": "Bike-Progression",
-          "description": "Welche Bikes du zuerst kaufen solltest, um kein Geld zu verschwenden.",
-          "level": "Bikes",
-          "readTime": "5 Min."
+          "number": "4",
+          "title": "Beste Bike-Progression",
+          "description": "Erweitere deine Garage von einfachen Starter-Modellen bis hin zu leistungsstarken Sport- und Stunt-Bikes."
         }
       ]
     },
     "popular": {
-      "badge": "Beliebte Inhalte",
-      "title": "Beliebte Guides in Wheelie District",
-      "description": "Die meistgelesenen Ratgeber und Tutorials unserer Stunt-Community.",
-      "viewAll": "Alle Guides Durchsuchen"
+      "eyebrow": "Beliebte Seiten",
+      "title": "Aktuell im Trend",
+      "quickLinks": [
+        "Einsteiger-Guide",
+        "Wheelie Lernen",
+        "Schnell Cash",
+        "Bike-Tier-List"
+      ],
+      "cards": [
+        {
+          "badge": "Einsteiger",
+          "title": "Einsteiger-Guide",
+          "description": "Alles, was du vom ersten Garagen-Spawn bis zur Gasdosierung und Balancesteuerung wissen musst.",
+          "href": "/guide/wheelie-district-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Aktive Codes",
+          "description": "Alle funktionierenden Wheelie District Promo-Codes für kostenloses Ingame-Cash und Bike-Designs.",
+          "href": "/codes/wheelie-district-codes"
+        },
+        {
+          "badge": "Stunt",
+          "title": "Wheelie Lernen",
+          "description": "Beherrsche den Balancepunkt, gefühlvolles Gasgeben und die Hinterradbremse für anhaltende Wheelies.",
+          "href": "/guide/wheelie-district-how-to-wheelie"
+        },
+        {
+          "badge": "Fahrzeuge",
+          "title": "Fahrzeug-Katalog",
+          "description": "Komplette Übersicht aller Motorräder, Superbikes, Dirt-Bikes und Stunt-Rahmen.",
+          "href": "/items/wheelie-district-vehicles"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Schnell Cash Verdienen",
+          "description": "Effiziente Stunt-Routen und Kombo-Multiplikatoren, um deine Einnahmen im Spiel zu maximieren.",
+          "href": "/progression/wheelie-district-money"
+        },
+        {
+          "badge": "Steuerung",
+          "title": "Steuerungs-Guide",
+          "description": "Vollständige Tastenbelegung für PC-Tastatur und Touchscreen für präzise Straßenfahrten.",
+          "href": "/progression/wheelie-district-controls"
+        },
+        {
+          "badge": "Ranking",
+          "title": "Fahrzeug-Tier-List",
+          "description": "Jedes Bike bewertet nach Höchstgeschwindigkeit, Balance-Toleranz und Stunt-Punkten.",
+          "href": "/progression/wheelie-district-vehicle-categories"
+        },
+        {
+          "badge": "Neu",
+          "title": "Update-Verlauf",
+          "description": "Offizielle Patchnotes, Physik-Anpassungen, neue Fahrzeuge und Kartenerweiterungen.",
+          "href": "/updates/wheelie-district-update"
+        },
+        {
+          "badge": "Community",
+          "title": "Community-Links",
+          "description": "Tritt der offiziellen Roblox-Gruppe und den Foren bei, um Stunt-Clips und Rekorde zu teilen.",
+          "href": "/community/wheelie-district-discord"
+        }
+      ]
     },
     "aboutGame": {
-      "badge": "Über das Spiel",
-      "title": "Erlebe Wheelie District auf Roblox",
-      "description": "Wheelie District ist einer der packendsten Motorrad- und Stuntsimulatoren auf Roblox. Das Spiel bietet ein realistisches Fahrgefühl, bei dem Gasdosierung und Gewichtsverlagerung entscheidend sind, um den perfekten Wheelie zu halten.",
-      "paragraph2": "Passe Sportbikes, Dirt-Bikes und Cruiser an, erkunde eine weitläufige Stadtkarte, miss dich in Straßenrennen mit anderen Spielern und werde zur Stunt-Legende.",
+      "title": "Was ist Wheelie District?",
+      "paragraphs": [
+        "Wheelie District ist ein adrenalingeladenes Motorrad-Stunt- und Straßenfahr-Simulationsspiel auf Roblox. Spieler befahren weite Stadtstraßen und Highways, erlernen realistische Motorradphysik, Gasregulierung und Balancemechaniken, während sie steile Wheelies, Drifts und Präzisionsmanöver vollführen.",
+        "Egal, ob du lernst, deinen ersten 100-Meter-Wheelie auf einem Einsteiger-Dirt-Bike zu halten, Stunt-Kombos aufzubauen, um Elite-Superbikes freizuschalten, oder in deiner persönlichen Garage Motoren und Handling abzustimmen – unser Wiki bietet umfassende Guides, Fahrzeugdaten, Steuerungsanalysen und Cash-Strategien."
+      ],
       "stats": [
         {
           "label": "Plattform",
@@ -92,305 +149,314 @@
         },
         {
           "label": "Genre",
-          "value": "Motorrad-Simulator"
+          "value": "Motorrad-Stunt-Simulation"
         },
         {
-          "label": "Schlüsselfunktion",
-          "value": "Balance & Wheelie"
+          "label": "Kernmechanik",
+          "value": "Wheelie-Balance & Fahrphysik"
         },
         {
-          "label": "Kategorien",
-          "value": "Dirt / Sport / Cruiser"
+          "label": "Fahrzeugtypen",
+          "value": "Dirt, Sport & Cruiser"
         },
         {
-          "label": "Unterstützung",
-          "value": "PC & Mobile"
+          "label": "Steuerung",
+          "value": "PC & Mobil Unterstützt"
+        },
+        {
+          "label": "Community",
+          "value": "Roblox-Gruppe & Fans"
         },
         {
           "label": "Preis",
-          "value": "Kostenlos"
+          "value": "Kostenlos Spielbar"
         }
-      ]
+      ],
+      "cta": "Alle Guides Durchsuchen"
     },
     "explore": {
-      "badge": "Guides Erkunden",
-      "title": "Wheelie District Wissensbereiche",
-      "subtitle": "Alles Wichtige aufgeteilt in 8 übersichtliche Themenbereiche.",
+      "title": "Erkunde das Wheelie District Wiki",
+      "description": "Meistere Stuntfahrten in Wheelie District auf Roblox mit wichtigen Progressions-Guides, aktiven Codes, Fahrzeugkatalogen und den besten Verdienstmethoden.",
       "modules": [
         {
-          "id": "codes",
-          "title": "Wheelie District Codes",
-          "description": "Aktuelle Einlösecodes für kostenloses Ingame-Geld und besondere Belohnungen.",
+          "order": 1,
+          "name": "Wheelie District Codes",
+          "description": "Löse die neuesten aktiven Promo-Codes ein, um kostenloses Ingame-Cash, Aufkleber und Upgrade-Boni zu erhalten, bevor sie ablaufen.",
+          "href": "/codes/wheelie-district-codes",
           "displayType": "code-cards",
-          "viewAllHref": "/codes",
-          "viewAllText": "Alle Codes Anzeigen",
-          "emptyText": "Zurzeit keine abgelaufenen Codes.",
-          "items": [
+          "highlights": [
             {
-              "title": "Aktive Codes",
-              "code": "WHEELIE",
-              "reward": "Kostenloses Geld",
-              "status": "Aktiv",
-              "description": "Im Spielmenü eingeben, um Startkapital zu erhalten."
+              "label": "COMING-SOON",
+              "detail": "Neuester aktiver Promo-Code — Kostenloses Ingame-Cash",
+              "badge": "Aktiv"
+            },
+            {
+              "label": "STAY-TUNED",
+              "detail": "Community-Meilenstein-Belohnung — Gratis Bike-Aufkleber",
+              "badge": "Aktiv"
+            },
+            {
+              "label": "Tipp",
+              "detail": "Codes achten auf Groß-/Kleinschreibung; im Spielmenü einlösen"
             }
           ]
         },
         {
-          "id": "wheelie-basics",
-          "title": "Wheelie-Techniken in Wheelie District",
-          "description": "Schritt-für-Schritt zur perfekten Balance ohne nach hinten überzukippen.",
+          "order": 2,
+          "name": "Wheelie District Einsteiger-Guide",
+          "description": "Unverzichtbarer Einstiegs-Walkthrough zu Grundsteuerung, Gasbeherrschung, Auffinden des Balancepunkts und erstem Cash-Fortschritt.",
+          "href": "/guide/wheelie-district-guide",
           "displayType": "step-by-step",
-          "viewAllHref": "/guide",
-          "viewAllText": "Vollständigen Guide Lesen",
-          "steps": [
+          "highlights": [
             {
-              "step": 1,
-              "title": "Ausgangsgeschwindigkeit",
-              "description": "Fahre geradeaus mit moderater Geschwindigkeit an, bevor du anhebst."
+              "label": "1",
+              "detail": "Spawne dein Starter-Bike in der Garage und lerne die Gassteuerung kennen"
             },
             {
-              "step": 2,
-              "title": "Vorderrad Anheben",
-              "description": "Ziehe nach hinten und gib gleichzeitig einen kontrollierten Gasstoß."
+              "label": "2",
+              "detail": "Lehne dich beim Beschleunigen zurück, um das Vorderrad in die Wheelie-Zone zu heben"
             },
             {
-              "step": 3,
-              "title": "Balance-Punkt Halten",
-              "description": "Arbeite mit feinen Gas- und Hinterradbrems-Impulsen, um stabil zu bleiben."
+              "label": "3",
+              "detail": "Tippe leicht auf die Hinterradbremse, um ein Überkippen nach hinten zu verhindern"
             },
             {
-              "step": 4,
-              "title": "Sanftes Aufsetzen",
-              "description": "Nimm das Gas behutsam zurück, um das Vorderrad wieder sicher abzusetzen."
+              "label": "4",
+              "detail": "Halte auf geraden Straßen stetigen Schwung, um deine Stunt-Kombo aufzubauen"
+            },
+            {
+              "label": "5",
+              "detail": "Spare Cash-Belohnungen, um schnellere Straßenmaschinen und Tuningteile freizuschalten"
+            },
+            {
+              "label": "6",
+              "detail": "Übe das Wiedererlangen der Balance beim Lenken durch Kurven und Verkehr"
             }
           ]
         },
         {
-          "id": "money-grind",
-          "title": "Geld Verdienen in Wheelie District",
-          "description": "Optimale Strategien für maximalen Ertrag pro Spielminute.",
+          "order": 3,
+          "name": "Wheelie District Fahrzeug-Guide",
+          "description": "Entdecke alle Motorräder, Superbikes, Dirt-Bikes und Stunt-Maschinen mit Werten, Preisen und Freischaltbedingungen.",
+          "href": "/items/wheelie-district-vehicles",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Sport",
+              "detail": "Drehfreudige Straßenrenner für Highway-Höchstgeschwindigkeiten und lange Wheelies"
+            },
+            {
+              "label": "Dirt",
+              "detail": "Wendige Geländemaschinen mit fehlerverzeihendem Balancepunkt für Einsteiger"
+            },
+            {
+              "label": "Superbike",
+              "detail": "Erstklassige Hyperbikes für maximale Beschleunigung und Stunt-Punkte"
+            },
+            {
+              "label": "Cruiser",
+              "detail": "Schwere Straßenmaschinen mit stabilem Schwerpunkt und ruhigem Fahrverhalten"
+            },
+            {
+              "label": "Custom",
+              "detail": "Modifizierte Stunt-Rahmen mit angepassten Schwingen und Wheelie-Bars"
+            },
+            {
+              "label": "Speedster",
+              "detail": "Leichte Drift-Maschinen für millimetergenaue Manöver im Stadtverkehr"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Wheelie District Update-Verlauf",
+          "description": "Verfolge offizielle Patchnotes, neu hinzugefügte Motorräder, Kartenerweiterungen, Physik-Anpassungen und Events.",
+          "href": "/updates/wheelie-district-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Bikes",
+              "detail": "Neue Sportmaschinen und Custom-Stunt-Rahmen für die Garage hinzugefügt"
+            },
+            {
+              "label": "Physik",
+              "detail": "Verfeinerte Balance-Sensitivität und optimiertes Ansprechverhalten beim Gasgeben"
+            },
+            {
+              "label": "Karte",
+              "detail": "Erweiterte Highway-Abschnitte und neue Stunt-Parks in der ganzen Stadt"
+            },
+            {
+              "label": "Belohnungen",
+              "detail": "Höhere Cash-Multiplikatoren für kontinuierliche Langstrecken-Wheelies"
+            },
+            {
+              "label": "Qualität",
+              "detail": "Verbesserte Kamerawinkel, Touch-Layouts für Mobilgeräte und Audioeffekte"
+            },
+            {
+              "label": "Events",
+              "detail": "Saisonale Community-Wettbewerbe und Stunt-Bestenlisten"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Wheelie District Cash-Guide",
+          "description": "Die schnellsten Methoden zum Verdienen von Ingame-Cash durch lange Wheelie-Serien, Kombo-Multiplikatoren und effiziente Routen.",
+          "href": "/progression/wheelie-district-money",
           "displayType": "step-by-step",
-          "viewAllHref": "/progression",
-          "viewAllText": "Cash-Guide Ansehen",
-          "steps": [
+          "highlights": [
             {
-              "step": 1,
-              "title": "Dauer-Wheelies",
-              "description": "Fahre lange Wheelies auf geraden Straßen für kontinuierliche Multiplikatoren."
+              "label": "1",
+              "detail": "Suche dir eine lange, freie Straße oder einen Highway-Abschnitt ohne Hindernisse"
             },
             {
-              "step": 2,
-              "title": "Herausforderungen Absolvieren",
-              "description": "Nimm an Straßenrennen und Mini-Events auf der Karte teil."
+              "label": "2",
+              "detail": "Hebe das Vorderrad an und halte das Tempo über 30 MPH für den Multiplikator"
             },
             {
-              "step": 3,
-              "title": "Upgrades Kaufen",
-              "description": "Investiere in Motorleistung und Bodenhaftung für höhere Einnahmen."
+              "label": "3",
+              "detail": "Halte den Neigungswinkel im optimalen Bereich, um fortlaufend Kombo-Punkte zu sammeln"
+            },
+            {
+              "label": "4",
+              "detail": "Bremse sanft, um Unfälle zu vermeiden; das Absetzen des Vorderrads sichert das Geld"
+            },
+            {
+              "label": "5",
+              "detail": "Investiere frühe Einnahmen in Maschinen mit höherer Geschwindigkeit und Stabilität"
+            },
+            {
+              "label": "6",
+              "detail": "Nimm an Straßenrennen und Zeitrennen für hohe Einmal-Auszahlungen teil"
             }
           ]
         },
         {
-          "id": "bike-tiers",
-          "title": "Wheelie District Motorräder",
-          "description": "Rangliste aller Bikes nach Beschleunigung, Höchstgeschwindigkeit und Handling.",
+          "order": 6,
+          "name": "Wheelie District Steuerungs-Guide",
+          "description": "Detaillierte Steuerungsübersicht für PC-Tastatur und Smartphone-Touchscreen mit Tipps zur Gasdosierung und Gewichtsverlagerung.",
+          "href": "/progression/wheelie-district-controls",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Gas",
+              "detail": "Gleichmäßig beschleunigen und feinfühlig Gas geben, um den Wheelie zu halten"
+            },
+            {
+              "label": "Bremse",
+              "detail": "Kurz die Hinterradbremse antippen, um die Front vor dem Überschlagen abzufangen"
+            },
+            {
+              "label": "Lenken",
+              "detail": "Sanfte Gegenlenkbewegungen nutzen, um das Bike auf einem Rad auf Kurs zu halten"
+            },
+            {
+              "label": "Gewicht",
+              "detail": "Körpergewicht nach vorn oder hinten verlagern, um den Schwerpunkt anzupassen"
+            },
+            {
+              "label": "Kamera",
+              "detail": "Zur Third-Person-Verfolgerperspektive wechseln für beste Übersicht bei Stunts"
+            },
+            {
+              "label": "Mobil",
+              "detail": "Optimierte virtuelle Tasten und Schieberegler auf dem Touchscreen nutzen"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Wheelie District Fahrzeug-Tier-List",
+          "description": "Rangliste aller Bikes basierend auf Höchstgeschwindigkeit, Balance-Toleranz, Fahrstabilität und Einnahmepotenzial.",
+          "href": "/progression/wheelie-district-vehicle-categories",
           "displayType": "tier-grid",
-          "viewAllHref": "/items",
-          "viewAllText": "Vollständige Liste",
-          "tiers": [
+          "highlights": [
             {
-              "tier": "Tier S",
-              "label": "Spitzenklasse",
-              "description": "Leistungsstarke Supersportler mit enormer Geschwindigkeit und Spitzenbalance.",
-              "items": [
-                "H2R Sport",
-                "Superbike 1000"
-              ]
+              "label": "S",
+              "detail": "H2R & Hyper-Superbikes — Höchste Endgeschwindigkeit und enorme Stunt-Multiplikatoren"
             },
             {
-              "tier": "Tier A",
-              "label": "Fortgeschritten",
-              "description": "Hervorragende Beschleunigung und leichtes Anheben für Stunts.",
-              "items": [
-                "Dirt Pro 450",
-                "Street Cruiser 650"
-              ]
+              "label": "A",
+              "detail": "Getunte Sportmaschinen — Exzellentes Ansprechverhalten und ausbalancierter Schwerpunkt"
             },
             {
-              "tier": "Tier B",
-              "label": "Einsteiger",
-              "description": "Günstige und einfach beherrschbare Modelle für den Spieleinstieg.",
-              "items": [
-                "Starter Dirt 250",
-                "City Scooter 125"
-              ]
+              "label": "B",
+              "detail": "Custom-Dirt-Bikes — Hohes Drehmoment und breites Balance-Fenster für Einsteiger"
+            },
+            {
+              "label": "C",
+              "detail": "Standard-Straßenbikes & Cruiser — Zuverlässige Einstiegsmodelle mit moderatem Tempo"
             }
           ]
         },
         {
-          "id": "bike-garage",
-          "title": "Wheelie District Motorrad-Garage",
-          "description": "Übersicht über alle verfügbaren Modelle und deren Fahreigenschaften.",
+          "order": 8,
+          "name": "Wheelie District Community",
+          "description": "Vernetze dich mit anderen Stuntfahrern, tritt der offiziellen Roblox-Gruppe bei, entdecke Rekorde und bleibe informiert.",
+          "href": "/community/wheelie-district-discord",
           "displayType": "card-list",
-          "viewAllHref": "/items",
-          "viewAllText": "Garage Erkunden",
-          "cards": [
+          "highlights": [
             {
-              "title": "Sportmotorräder (Sport)",
-              "description": "Höchste Endgeschwindigkeit und beste Aerodynamik auf langen Geraden.",
-              "highlights": [
-                {
-                  "label": "Sport",
-                  "value": "Max. Tempo"
-                }
-              ]
+              "label": "Gruppe",
+              "detail": "Tritt der offiziellen Roblox-Gruppe für Neuigkeiten und Mitgliedervorteile bei"
             },
             {
-              "title": "Motocross-Bikes (Dirt)",
-              "description": "Hohes Drehmoment und weiches Fahrwerk für mühelose Wheelies.",
-              "highlights": [
-                {
-                  "label": "Dirt",
-                  "value": "Wheelie-Kontrolle"
-                }
-              ]
+              "label": "Rekorde",
+              "detail": "Reiche deine längsten Wheelie-Distanzen und Stunt-Highscores ein"
             },
             {
-              "title": "Cruiser-Bikes (Cruiser)",
-              "description": "Klassische Optik, bequeme Fahrposition und stabiler Geradeauslauf.",
-              "highlights": [
-                {
-                  "label": "Cruiser",
-                  "value": "Stabilität"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "patch-notes",
-          "title": "Wheelie District Update-Historie",
-          "description": "Alle Patchnotizen, neue Fahrzeuge und Änderungen an der Fahrphysik.",
-          "displayType": "card-list",
-          "viewAllHref": "/updates",
-          "viewAllText": "Patchnotizen Anzeigen",
-          "cards": [
-            {
-              "title": "Neues Motorrad-Update",
-              "description": "Neue Supersportler beim Händler verfügbar sowie optimierte Fahrstabilität.",
-              "highlights": [
-                {
-                  "label": "Updates",
-                  "value": "Neue Bikes"
-                }
-              ]
+              "label": "Treffen",
+              "detail": "Nimm an organisierten Gruppenausfahrten und Highway-Cruises teil"
             },
             {
-              "title": "Wheelie-Physik Überarbeitung",
-              "description": "Feiner ansprechende Hinterradbremse und präzisere Balance-Steuerung.",
-              "highlights": [
-                {
-                  "label": "Mechanics",
-                  "value": "Physik"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "control-guide",
-          "title": "Wheelie District Steuerung",
-          "description": "Tastenbelegung für Tastatur, Maus und Controller für präzise Manöver.",
-          "displayType": "card-list",
-          "viewAllHref": "/mechanics",
-          "viewAllText": "Steuerung Einsehen",
-          "cards": [
-            {
-              "title": "Gas und Bremsen",
-              "description": "Feine Dosierung über die Tasten W/S zur Aufrechterhaltung des Neigungswinkels.",
-              "highlights": [
-                {
-                  "label": "Throttle",
-                  "value": "Dosierung"
-                }
-              ]
+              "label": "Feedback",
+              "detail": "Teile Ideen, Bug-Reports und Fahrzeugwünsche direkt mit den Entwicklern"
             },
             {
-              "title": "Balance-Steuerung",
-              "description": "Lenkkorrekturen während des Stunts zur Spurhaltung auf der Fahrbahn.",
-              "highlights": [
-                {
-                  "label": "Steer",
-                  "value": "Balance"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "community-hub",
-          "title": "Wheelie District Community",
-          "description": "Tausche dich auf Discord mit anderen Fahrern aus und teile deine besten Stunts.",
-          "displayType": "card-list",
-          "viewAllHref": "/community",
-          "viewAllText": "Community Beitreten",
-          "cards": [
-            {
-              "title": "Offizieller Discord",
-              "description": "Verbinde dich mit Mitspielern, zeige deine Stunt-Videos und erhalte Codes.",
-              "highlights": [
-                {
-                  "label": "Discord",
-                  "value": "Community"
-                }
-              ]
+              "label": "Discord",
+              "detail": "Tausche dich im Chat aus, teile Stunt-Videos und hol dir Tipps von Veteranen"
             },
             {
-              "title": "Roblox-Gruppe",
-              "description": "Tritt der Entwicklergruppe bei, um dir zusätzliche Ingame-Vorteile zu sichern.",
-              "highlights": [
-                {
-                  "label": "Group",
-                  "value": "Belohnungen"
-                }
-              ]
+              "label": "Events",
+              "detail": "Nimm an Wochenend-Stunt-Wettbewerben für exklusive Ehrenplätze teil"
             }
           ]
         }
       ]
     },
     "faq": {
-      "badge": "Häufige Fragen",
-      "title": "Häufig Gestellte Fragen zu Wheelie District",
-      "description": "Schnelle Antworten auf die wichtigsten Fragen rund um Gameplay und Steuerung.",
+      "title": "Häufig Gestellte Fragen",
+      "description": "Schnelle Antworten auf die wichtigsten Fragen rund um Wheelie District.",
       "items": [
         {
-          "question": "Was ist Wheelie District auf Roblox?",
-          "answer": "Wheelie District ist ein Motorrad-Simulator auf Roblox, bei dem sich alles um realistische Wheelies, Stunts und Straßenrennen dreht."
+          "question": "Was ist Wheelie District?",
+          "answer": "Wheelie District ist ein beliebtes Motorrad-Stunt- und Straßenfahr-Simulationsspiel auf Roblox mit Fokus auf realistischer Wheelie-Physik, Fahrzeugprogression und Highscores."
         },
         {
-          "question": "Wie macht man einen Wheelie in Wheelie District?",
-          "answer": "Beschleunige geradeaus, verlagere das Gewicht nach hinten und halte das Bike durch feine Gas- und Bremsimpulse in Balance."
+          "question": "Wie mache und halte ich einen Wheelie in Wheelie District?",
+          "answer": "In Wheelie District beschleunigst du und lehnst dich zurück, um das Vorderrad zu heben. Sobald es oben ist, dosierst du das Gas und tippst bei Bedarf die Hinterradbremse an."
         },
         {
-          "question": "Wie verdient man schnell Geld in Wheelie District?",
-          "answer": "Halte lange Wheelies auf geraden Straßen und löse die neuesten Bonuscodes für Gratis-Cash ein."
+          "question": "Wie verdiene ich schnell Cash in Wheelie District?",
+          "answer": "Am effektivsten verdienst du Cash durch anhaltende Wheelies auf langen Geraden. Je länger die Serie, desto höher der Kombo-Multiplikator beim sicheren Absetzen."
         },
         {
-          "question": "Wo löst man Codes in Wheelie District ein?",
-          "answer": "Öffne im Spiel das Code-Menü, gib den gültigen Code ein und bestätige die Eingabe."
+          "question": "Wo finde ich aktive Wheelie District Codes?",
+          "answer": "Aktuelle Promo-Codes findest du auf unserer dedizierten Codes-Seite. Sie können im Ingame-Menü für kostenloses Cash und kosmetische Extras eingelöst werden."
         },
         {
-          "question": "Welches Motorrad eignet sich am besten für Einsteiger?",
-          "answer": "Dirt-Bikes (Motocross) eignen sich ideal für den Einstieg, da sie leicht sind und sich besonders einfach anheben lassen."
+          "question": "Was ist das beste Bike für Anfänger in Wheelie District?",
+          "answer": "Für Neueinsteiger eignen sich Dirt-Bikes und leichte Straßenmaschinen am besten, da sie eine sehr gutmütige Balance bieten und das Üben der Gasdosierung erleichtern."
         }
       ]
     },
     "finalCta": {
-      "title": "Bereit, die Straßen in Wheelie District zu Beherrschen?",
-      "description": "Nutze unsere ausführlichen Guides, wähle dein Bike und meistere spektakuläre Stunts auf dem Asphalt.",
-      "primaryCta": "Jetzt Starten",
-      "secondaryCta": "Aktive Codes Ansehen"
+      "title": "Bereit, Wheelie District zu Meistern?",
+      "description": "Von der ersten Ausfahrt bis zu Highspeed-Wheelie-Stunts – unser Community-Wiki bietet dir kostenlose und aktuelle Guides.",
+      "primary": "Einsteiger-Guide Lesen",
+      "secondary": "Auf Roblox Spielen"
     }
   },
   "bosses": {},
